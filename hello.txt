@@ -13,3 +13,5 @@ I fell that the atmesphere of my new company is good!
 Today is raining!
 
 I fell not good
+
+test "git commit -a"
